@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SherlonJ
 - 👀 I’m interested in python and lua
-- 🌱 I’m currently learning pythong and lua
+- 🌱 I’m currently mastering python and lua
 - 💞️ I’m looking to collaborate on any lua or python based projects
 - 📫 How to reach me discord ; sherlon#7898
 
